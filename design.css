@@ -1,0 +1,31 @@
+#Score-box{
+    background-color:greenyellow;
+    color: black;
+    padding:12px;
+    padding-top: 5px;
+    border: 3px groove blue;
+}
+.Real-Madrid{
+    color: black;
+    float: left;
+}
+.Real-Madrid th, td{
+    border: 5px ridge gold;
+    border-collapse: collapse;
+    padding: 15px;
+}
+.Real-Madrid h2{
+    color: gold;
+}
+.Inter-Milan{
+    color: black;
+    float: right;
+}
+.Inter-Milan th, td{
+    border: 5px ridge darkblue;
+    border-collapse: collapse;
+    padding: 15px;
+}
+.Inter-Milan h2{
+    color: darkblue;
+}
