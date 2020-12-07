@@ -1,11 +1,13 @@
 #Score-box{
     background-color:greenyellow;
+    text-align: center;
     color: black;
     padding:12px;
     padding-top: 5px;
     border: 3px groove blue;
 }
 .Real-Madrid{
+    width: auto;
     color: black;
     float: left;
 }
@@ -18,6 +20,7 @@
     color: gold;
 }
 .Inter-Milan{
+    width: auto;
     color: black;
     float: right;
 }
